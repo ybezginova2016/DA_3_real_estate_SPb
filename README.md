@@ -1,0 +1,2 @@
+# project-2_real_estate_SPb
+Data is collected via Yandex Real Estate service; it is an archived data of advertisements about the apartments for sale in St. Petersburg and nearest towns.  The data contains two types of variables about each apartment: user-added and cartographic. For example, the first type includes the area of the apartment, its floor and the number of balconies, the second - the distance to the city center, airport and the nearest park.
