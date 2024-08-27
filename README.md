@@ -5,9 +5,10 @@ The objective of this project is to analyze real estate data for apartments list
 
 ### Data
 The dataset is collected via the Yandex Real Estate service and includes archived data from advertisements about apartments for sale in St. Petersburg and nearby towns. The data contains two types of variables for each apartment:
-
 **User-added Variables:** These include attributes like the apartment's area, floor number, number of balconies, etc.
 **Cartographic Variables:** These include the distance to significant locations such as the city center, airport, and nearest park.
+
+Data can be found [here](https://github.com/ybezginova2016/DA_3_real_estate_SPb/blob/main/real_estate_data.csv).
 
 ### Analysis Goals
 The analysis will focus on:
