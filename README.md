@@ -3,6 +3,9 @@
 ### Project Objective
 The objective of this project is to analyze real estate data for apartments listed for sale in St. Petersburg and nearby towns. The goal is to identify trends and factors that influence property prices and to gain insights that could assist in decision-making for buyers, sellers, and real estate professionals.
 
+### Results
+Main Jupyter file can be found [here](https://github.com/ybezginova2016/DA_3_real_estate_SPb/blob/main/main_real_estate_data.ipynb).
+
 ### Data
 The dataset is collected via the Yandex Real Estate service and includes archived data from advertisements about apartments for sale in St. Petersburg and nearby towns. The data contains two types of variables for each apartment:
 **User-added Variables:** These include attributes like the apartment's area, floor number, number of balconies, etc.
